@@ -1,7 +1,8 @@
 ### Hi there 👋, my name is Noor El-Din. 😄
 #### I'm an iOS Software Engineer. 🍎💻
 ### Socials:
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/iNoor72)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in//noor-el-din-walid//)  
+[![LinkedIn URL](https://img.shields.io/static/v1?color=red&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/noor-el-din-walid/)
+[![Facebook URL](https://img.shields.io/static/v1?color=red&label=Facebook&logo=Facebook&logoColor=white&style=for-the-badge&message=Connect)](https://www.facebook.com/noor.almadridi.10) 
 
 - 🌱 I’m currently learning Swift, iOS Programming. 
 - 💬 Ask me about Swift, iOS, OOP, C++, Software Engineering. 
