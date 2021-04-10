@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Noor El-Din. 😄
+### Hello there 👋, my name is Noor El-Din Walid. 😄
 #### I'm an iOS Software Engineer. 🍎💻
 ### Socials:
 [![LinkedIn URL](https://img.shields.io/static/v1?color=red&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/noor-el-din-walid/)
