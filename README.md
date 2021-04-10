@@ -1,8 +1,6 @@
 <h1 align="center">Hello there 👋, I'm Noor El-Din Walid. 😄</h1>
 <h3 align="center">I'm a passionate iOS Software Engineer. 🍎💻</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=inoor72&label=Profile%20views&color=0e75b6&style=flat" alt="inoor72" /> </p>
-
 - 🌱 I’m currently learning **Swift, iOS Programming.**
 
 - 💬 Ask me about **Swift, iOS, OOP, C++, Software Engineering.**
@@ -27,3 +25,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=inoor72&show_icons=true&locale=en&layout=compact" alt="inoor72" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=inoor72&show_icons=true&locale=en" alt="inoor72" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=inoor72&label=Profile%20views&color=0e75b6&style=flat" alt="inoor72" /> </p>
