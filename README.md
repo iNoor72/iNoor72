@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences: [https://www.visualcv.com/pdfs/6227404/](https://www.visualcv.com/pdfs/6227404/)
 
-- ⚡ Fun fact **I'm a perfectionist 💪😎**
+- ⚡ Fun fact **I'm a perfectionist. 💪😎**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
