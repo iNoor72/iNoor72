@@ -7,7 +7,7 @@
 
 - 📫 How to reach me: **noorwalid72@yahoo.com**. Or just use my connections down below. 😄
 
-- 📄 Know about my experiences: [https://www.visualcv.com/pdfs/6227404/](https://www.visualcv.com/pdfs/6227404/)
+- 📄 Know about my experiences: [https://www.visualcv.com/pdfs/6227404/)
 
 - ⚡ Fun fact **I'm a perfectionist. 💪😎**
 
