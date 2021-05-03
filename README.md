@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/noor-el-din-walid/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/noor-el-din-walid/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/noor-el-din-walid/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/noor-el-din-walid/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/noor.almadridi.10" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/noor.almadridi.10" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/noorwalid72" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="noorwalid72" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/@inoor" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="@inoor" height="30" width="40" /></a>
