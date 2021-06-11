@@ -3,13 +3,13 @@
 
 - 🌱 I’m currently learning: **Swift, iOS Programming.**
 
-- 💬 Ask me about: **Swift, iOS, OOP, C++, Software Engineering.**
+- 💬 Ask me about: **Swift, iOS, OOP, C++, Software Engineering, and Problem Solving.**
 
 - 📫 How to reach me: **noorwalid72@yahoo.com**. Or just use my connections down below. 😄
 
 - 📄 Know about my experiences: **https://www.visualcv.com/pdfs/6227404/**
 
-- ⚡ Fun fact **I'm a perfectionist. 💪😎**
+- ⚡ Fun fact: **I'm a perfectionist. 💪😎**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
