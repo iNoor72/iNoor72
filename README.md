@@ -1,7 +1,7 @@
 <h1 align="center">Hello there 👋, I'm Noor El-Din Walid. 😄</h1>
 <h3 align="center">I'm a passionate iOS Software Engineer. 🍎💻</h3>
 
-- 🌱 I’m currently learning: **Swift, iOS Programming.**
+- 🌱 I’m currently learning: **Swift, iOS Programming, Front-End (HTML, CSS, JS).**
 
 - 💬 Ask me about: **Swift, iOS, OOP, C++, Software Engineering, and Problem Solving.**
 
