@@ -7,7 +7,7 @@
 
 - 📫 How to reach me: **noorwalid72@yahoo.com**. Or just use my connections down below. 😄
 
-- 📄 Know about my experiences: **https://shorturl.at/ryIR9**
+- You can also reach out for me to ask me about my experiences. 😄
 
 - ⚡ Fun fact: **I'm a perfectionist. 💪😎**
 
