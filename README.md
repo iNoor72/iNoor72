@@ -1,7 +1,8 @@
 <h1 align="center">Hello there 👋, I'm Noor El-Din Walid. 😄</h1>
 <h3 align="center">I'm a passionate iOS Software Engineer. 🍎💻</h3>
 
-- 🌱 I’m currently learning: **Swift, iOS Programming, some Front-End Development (HTML, CSS, JS).**
+- I'm a (Senior) iOS Engineer with 4+ years of experience. I've worked for companies in multiple industries such as: E-commerce, Bluetooth-connected devices (IoT & Scanners), Social Media, Food, Real estate, Storytelling, and more!
+I've worked with people from all continents! I've worked for companies and clients from almost every continent as well, I've worked for companies from: Africa (Egypt 🇪🇬, Algeria 🇩🇿), Americas (USA 🇺🇸, Canada 🇨🇦), Australia 🇦🇺, and Europe (Germany 🇩🇪, England 🇬🇧). 
 
 - 💬 Ask me about: **Swift, iOS, OOP, Software Engineering, and Problem Solving.**
 
