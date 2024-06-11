@@ -1,7 +1,7 @@
 <h1 align="center">Hello there 👋, I'm Noor El-Din Walid. 😄</h1>
-<h3 align="center">I'm a passionate iOS Software Engineer. 🍎💻</h3>
+<h3 align="center">I'm an iOS Software Engineer. 🍎💻</h3>
 
-- I'm a (Senior) iOS Engineer with 4+ years of experience. I've worked for companies in multiple industries such as: E-commerce, Bluetooth-connected devices (IoT & Scanners), Social Media, Food, Real estate, Storytelling, and more!
+- **I'm a (Senior) iOS Engineer with 4+ years of experience.** I've worked for companies in multiple industries such as: **E-commerce, Bluetooth-connected devices (IoT & Scanners), Social Media, Food, Real estate, Storytelling, and more!**
 I've worked with people from all continents! I've worked for companies and clients from almost every continent as well, I've worked for companies from: Africa (Egypt 🇪🇬, Algeria 🇩🇿), Americas (USA 🇺🇸, Canada 🇨🇦), Australia 🇦🇺, and Europe (Germany 🇩🇪, England 🇬🇧). 
 
 - 💬 Ask me about: **Swift, iOS, OOP, Software Engineering, and Problem Solving.**
@@ -10,7 +10,7 @@ I've worked with people from all continents! I've worked for companies and clien
 
 - You can also reach out for me to ask me about my experiences. 😄
 
-- ⚡ Fun fact: **I'm a perfectionist. 💪😎**
+- ⚡ Fun fact: **I'm a perfectionist and initiatives-taker. 💪😎**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
