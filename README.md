@@ -6,7 +6,7 @@ I've worked with people, companies, and clients from every continent there! I've
 
 - 💬 Ask me about: **Swift, iOS, Clean Architecture, OOP, Software Engineering, and Problem Solving.**
 
-- 📫 How to reach me: **noorwalid72@yahoo.com**. Or just use my connections down below. 😄
+- 📫 How to reach me: **https://www.bento.me/inoor**. Or just use my connections down below. 😄
 
 - You can also reach out for me to ask me about my experiences. 😄
 
