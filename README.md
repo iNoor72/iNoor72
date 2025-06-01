@@ -6,7 +6,7 @@ I've worked with people, companies, and clients from every continent there! I've
 
 - 💬 Ask me about: **Swift, iOS, Clean Architecture, Modularization, OOP, Software Engineering, and Problem Solving.**
 
-- 🤔 Learning more about: ** Flutter, Dart, Kotlin, and Kotlin Multiplatform (KMP). **
+- 🤔 Learning more about: **Flutter, Dart, Kotlin, and Kotlin Multiplatform (KMP).**
 
 - 📫 How to reach me: **https://www.bento.me/inoor**. Or just use my connections down below. 😄
 
