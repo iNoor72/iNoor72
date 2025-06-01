@@ -4,7 +4,9 @@
 - **I'm a Senior iOS Engineer with 5+ years of experience.** I've worked for companies in multiple industries such as: **Food Services, Retail, E-commerce, Real estate, Bluetooth-connected devices (IoT & Scanners), Social Media, Storytelling, and more!**
 I've worked with people, companies, and clients from every continent there! I've worked for companies from: Africa (Egypt 🇪🇬, Algeria 🇩🇿), Americas (USA 🇺🇸, Canada 🇨🇦), Australia 🇦🇺, Asia (Saudi Arabia 🇸🇦, Lebanon 🇱🇧), and Europe (Germany 🇩🇪, England 🇬🇧)!
 
-- 💬 Ask me about: **Swift, iOS, Clean Architecture, OOP, Software Engineering, and Problem Solving.**
+- 💬 Ask me about: **Swift, iOS, Clean Architecture, Modularization, OOP, Software Engineering, and Problem Solving.**
+
+- 🤔 Learning more about: ** Flutter, Dart, Kotlin, and Kotlin Multiplatform (KMP). **
 
 - 📫 How to reach me: **https://www.bento.me/inoor**. Or just use my connections down below. 😄
 
